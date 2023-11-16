@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "1",
+    "name_product": "Audifonos",
+    "description": "Diadema de color blanco",
+    "categoria": ["Accesorios", "Tecnología"],
+    "imageUrl": [
+      "../../assets/img/products/technology/1.jpg",
+      "../../assets/img/products/technology/2.jpg",
+      "../../assets/img/products/technology/3.jpg",
+      "../../assets/img/products/technology/4.jpg"
+    ],
+    "price": 50,
+    "regular_price": 68,
+    "create_at": "2023-03-19T13:54:51.214X",
+    "tag": "Tipo-audifonos"
+  },
+  {
+    "_id": "2",
+    "name_product": "Micrófono",
+    "description": "Micrófono de alta definición color Negro",
+    "categoria": ["Accesorios", "Tecnología"],
+    "imageUrl": [
+      "../../assets/img/products/technology/5.jpg",
+      "../../assets/img/products/technology/6.jpg",
+      "../../assets/img/products/technology/7.jpg",
+      "../../assets/img/products/technology/8.jpg"
+    ],
+    "price": 140,
+    "regular_price": 160,
+    "create_at": "2023-07-29T08:24:51.174X",
+    "tag": "Tipo-micrófonos"
+  },
+  {
+    "_id": "3",
+    "name_product": "iPhone",
+    "description": "Teléfono celular de alta gama",
+    "categoria": ["Celulares", "Tecnología"],
+    "imageUrl": [
+      "../../assets/img/products/technology/9.jpg",
+      "../../assets/img/products/technology/10.jpg",
+      "../../assets/img/products/technology/11.jpg",
+      "../../assets/img/products/technology/12.jpg"
+    ],
+    "price": 2000,
+    "regular_price": 2400,
+    "create_at": "2023-08-26T06:54:51.214X",
+    "tag": "Tipo-celulares"
+  },
+  {
+    "_id": "4",
+    "name_product": "Teclado",
+    "description": "Teclado con luces led",
+    "categoria": ["Accesorios", "Tecnología"],
+    "imageUrl": [
+      "../../assets/img/products/technology/13.jpg",
+      "../../assets/img/products/technology/14.jpg",
+      "../../assets/img/products/technology/15.jpg",
+      "../../assets/img/products/technology/16.jpg"
+    ],
+    "price": 80,
+    "regular_price": 94,
+    "create_at": "2023-03-19T13:54:51.214X",
+    "tag": "Tipo-teclados"
+  }
+]
